@@ -1,0 +1,163 @@
+.side-icons{
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: auto;
+    margin-left: 12px;
+    border: none;
+
+}
+.side-icons i{
+    margin-left: 5px;
+}
+
+p {
+    font-size: 14px;
+    color: #FFFFFF;
+  
+}
+
+span:hover {
+    cursor: pointer;
+
+}
+.container{
+    position: absolute;
+    top: 0px;
+    float: left;
+   
+    
+}
+.items,.tests,.testtakers,.groups,.deliveries,.results{
+    width: 75px;
+    height: 75px;
+}
+#sideba{
+    position: absolute;
+    border-top-right-radius: 25px;
+    left: 88px;
+    height: 700px;
+    border: 1px solid #0C747E;
+    width: 208px;
+    border-left: 0px;
+}
+.row-1 img{
+    width: 100px;
+    height: 75px;
+
+}
+.row-2 img{
+    width: 100px;
+    height: 75px;
+
+}
+.row-3 img{
+    width: 100px;
+    height: 75px;
+
+}
+.row-4 img{
+    width: 100px;
+    height: 75px;
+
+}
+.row-5 img{
+    width: 100px;
+    height: 75px;
+
+}
+.drop-down-1{
+    position: absolute;
+    left: 0px;
+    color: #0C747E;
+    font-weight: 700;
+    size: 20px;
+    width: 300px;
+    height: 32px;
+    top:40px;
+   
+}
+.sideba-2{
+    position: absolute;
+    top: 80px;
+
+}
+.inline{
+    position: absolute;
+    top: 585px;
+    width: 212px;
+    border: 1px solid #0C747E;
+    border-right: 0px;
+    border-left: 0px;
+   height: 40px;
+   left: -5px;
+}
+.graphic{
+    position: absolute;
+    top: 625px;
+    width: 212px;
+    border-bottom: 1px solid #0C747E;
+    left: -5px;
+   height: 40px;
+}
+.custom{
+    position: absolute;
+    top: 665px;
+    width: 212px;
+    border-bottom: 1px solid #0C747E;
+  left: -5px;
+   height: 40px;
+}
+.drop-arrow{
+    width:15px; 
+    height: 9.04px;
+    position: absolute;
+    top: 6px;
+    left:185px;
+
+}
+.drop-arrow-1{
+    width:15px; 
+    height: 9.04px;
+    position: absolute;
+    
+    left:188px;
+
+}
+.drop-arrow-2{
+    width:15px; 
+    height: 9.04px;
+    position: absolute;
+
+    left:188px;
+
+}
+.drop-arrow-3{
+    width:15px; 
+    height: 9.04px;
+    position: absolute;
+    left:188px;
+
+}
+.down{
+    position: absolute;
+    top: -125px;
+}
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+

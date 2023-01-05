@@ -1,0 +1,80 @@
+.navbar-brand{
+    font-size: 22px;
+    margin-left: 10px;
+    padding-top: 10px;
+    
+    font-weight: 600;
+    color: #FFFFFF;
+}
+.navbar {
+    background-color: #0C747E;
+    height: 73px;
+    width: 1550px;
+    padding: 0;
+}
+.para{
+    margin-left: 10px;
+    font-size: 14px;
+}
+.container-fluid p{
+   margin-top: 4px;
+   color: #FFFFFF;
+}
+.icons {
+    color: #FFFFFF;
+    font-size: 20px;
+    padding-right: 10px;
+}
+.icons li {
+    margin-right: 15px;
+}
+a:hover {
+    cursor: pointer;
+}
+.col-md-6{
+    margin-top:1px;
+   
+}
+.question{
+width: 20px;
+height: 19px;
+margin-right: 10px;
+
+}
+.settings{
+    width: 22.51px;
+    height: 21.24px;
+    margin-right: 10px;
+   
+}
+.search{
+    width: 25.32px;
+    height: 25.32px;
+ 
+    
+}
+.search-box{
+ padding-right: 10px;
+  border-right: 1px solid #FFFFFF;
+}
+.icons{
+    display: flex;
+    align-items: flex-end;
+    
+}
+.group{
+    width:19.69px;
+    height: 25.31px;
+    margin-right: 10px;
+}
+.group-main{
+padding-left: 20px;
+border-right: 1px solid #FFFFFF;
+}
+.power{
+    width: 21.09px;
+    height: 22.14px;
+}
+.power-main{
+    padding-left: 20px;
+}
